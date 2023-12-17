@@ -1,0 +1,3 @@
+student1:course1,90;course2,92;course3,80;course4,79;course5,93
+student2:course1,92;course2,77;course5,85
+student3:course3,64;course4,97;course5,82

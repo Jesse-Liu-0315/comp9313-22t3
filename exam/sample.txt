@@ -1,0 +1,11 @@
+student1 course1 90
+student1 course2 92
+student1 course3 80
+student1 course4 79
+student1 course5 93
+student2 course1 92
+student2 course2 77
+student2 course5 85
+student3 course3 64
+student3 course4 97
+student3 course5 82
